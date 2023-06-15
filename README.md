@@ -1,7 +1,7 @@
 # SkillAss-01
 Develop a program to create a Thread using Android Studio
 ## AIM:
-Develop a program to create a Thread using Android Studio
+Develop a program to perform a Thread using Android Studio
 
 ## EQUIPMENTS REQUIRED:
 Android Studio(Min. required Artic Fox)
